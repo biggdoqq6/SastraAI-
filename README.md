@@ -4,10 +4,10 @@ Official Windows x64 installer and update feed for SastraAI Pro.
 
 ## Latest release
 
-[Download SastraAI Pro v2.8.16](https://github.com/biggdoqq6/SastraAI-/releases/tag/v2.8.16)
+[Download SastraAI Pro v2.8.26](https://github.com/biggdoqq6/SastraAI-/releases/tag/v2.8.26)
 
-Install `SastraAI-Pro-Setup-2.8.16.exe` and compare its SHA-256 with `SHA256SUMS-2.8.16.txt` in the same release. The [Khmer setup guide](SastraAI-Pro-v2.8.16-Setup-Guide.md) covers license activation, Cloud AI, local speech models, and Batch Videos.
+Install `SastraAI-Pro-Setup-2.8.26.exe` or update from **Settings → Software Updates** inside the app. The same release includes `latest.yml` and the installer blockmap used by automatic updates.
 
-Versions up to v2.8.15 used a release repository that is no longer available. Install v2.8.16 once from the link above. Later updates can be installed through **Settings → Software Updates**.
+Compare the downloaded installer with `SHA256SUMS-2.8.26.txt` if you want to verify the file. The [setup guide](https://github.com/biggdoqq6/SastraAI-/releases/download/v2.8.26/SastraAI-Pro-v2.8.26-Setup-Guide.md) explains how to update an existing installation.
 
-The installer and updater metadata are attached to [GitHub Releases](https://github.com/biggdoqq6/SastraAI-/releases). Release notes and the changelog are kept here for reference.
+Earlier releases remain available under [GitHub Releases](https://github.com/biggdoqq6/SastraAI-/releases).
